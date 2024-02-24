@@ -32,9 +32,17 @@ Sou um desenvolvedor Front-End de 20 anos, com um perfil persistente e ávido po
 
 
 ### Socials
-
-
-<p align="left"> <a href="https://www.github.com/FlavioAraujo23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/flavio23/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+##
+<div align="center">
+  <p> 
+    <a href="https://www.github.com/FlavioAraujo23" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=github" />
+    </a> 
+    <a href="https://www.linkedin.com/in/flavio23/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  </p>
+</div>
 
 ### Badges
 
