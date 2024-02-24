@@ -1,38 +1,48 @@
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Flávio Araújo
+Olá ![](https://user-images.githubusercontent.com/18350557/1763097830785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Flávio Araújo
 =====================================================================================================================================
 
 Desenvolvedor Frontend
 ----------------------
 
-Sou um desenvolvedor Front-End de 20 anos, com um perfil persistente e ávido por aprender novos conceitos rapidamente. Estou focado em expandir meus conhecimentos por meio de cursos e atualmente estudo UI/UX Design, Node Js e React.
+Sou um desenvolvedor Front-End de 20 anos, com um perfil persistente e ávido por aprender novos conceitos rapidamente. Estou focado em expandir meus conhecimentos por meio de cursos e atualmente estudo Typescript.
 
 * 🌍  Eu moro em São Paulo
 * ✉️  Entre em contato comigo [Flaviolopes1027@gmail.com](mailto:Flaviolopes1027@gmail.com)
-* 🧠  Atualmente eu estou estudando React
+* 🧠  Atualmente estou estudando Typescript
 
 ### Skills
 
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<div>
+  <h2>Frontend</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,figma,git,bootstrap,styledcomponents,tailwind,wordpress,js,react,nextjs,redux" />
+    </a>
 </p>
+</div>
+<div>
+  <h2>Backend</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,bun,express,ts,nginx,mongodb,postgres,mysql,aws,grafana,linux" />
+    </a>
+</p>
+</div>
+
 
 
 ### Socials
+
 
 <p align="left"> <a href="https://www.github.com/FlavioAraujo23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/flavio23/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/FlavioAraujo23"><img src="https://github-readme-stats.vercel.app/api?username=FlavioAraujo23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="FlavioAraujo23's GitHub stats" /></a>
-
-<a href="https://github.com/FlavioAraujo23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioAraujo23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=FlavioAraujo23&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioAraujo23&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
+  
